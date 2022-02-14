@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Slides
+optional_text: '[Lecture 20 (PDF)](resources/mit8_286f13_lec20)'
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 20: Supernovae Ia and Vacuum Energy Density'
 uid: 82fd0198-e216-1a38-2b1a-0e190b953020

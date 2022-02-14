@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Slides
+optional_text: '[Lecture 12 (PDF)](resources/mit8_286f13_lec12)'
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 12: Non-Euclidean Spaces: Open Universes and the Spacetime Metric'
 uid: f082693c-060c-86cd-e241-bf44ad701077

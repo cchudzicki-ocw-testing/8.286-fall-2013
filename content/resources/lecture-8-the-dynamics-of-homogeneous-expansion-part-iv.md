@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Slides
+optional_text: '[Lecture 8 (PDF)](resources/mit8_286f13_lec08)'
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 8: The Dynamics of Homogeneous Expansion, Part IV'
 uid: 31ba3e05-debd-6ee2-9a55-ccf318fddcfa

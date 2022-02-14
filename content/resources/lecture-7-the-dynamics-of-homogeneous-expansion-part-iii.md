@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Slides
+optional_text: '[Lecture 7 (PDF)](resources/mit8_286f13_lec07)'
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 7: The Dynamics of Homogeneous Expansion, Part III'
 uid: 27552a8a-56eb-74d7-1a22-a7edccb07388

@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Slides
+optional_text: "[Lecture 19 (PDF)  \n](resources/mit8_286f13_lec19)"
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 19: The Cosmological Constant, Part II'
 uid: 01850c51-a2a3-dba5-2e6f-fa1b8c91f40c

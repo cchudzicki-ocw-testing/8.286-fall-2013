@@ -3,7 +3,9 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/8-286-the-early-universe-fall-2013/07043967189c6b413696112794cd778f_YfbXB_MSkSY.srt
 file_type: application/x-subrip
+learning_resource_types: []
 resourcetype: Other
 title: 3play caption file
+type: OCWFile
 uid: 07043967-189c-6b41-3696-112794cd778f
 ---

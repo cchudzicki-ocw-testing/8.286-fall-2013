@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Slides
+optional_text: '[Lecture 13 (PDF)](resources/mit8_286f13_lec13)'
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 13: Non-Euclidean Spaces: Spacetime Metric and Geodesic Equation'
 uid: 54e850b4-13f1-0f48-f0c6-a6e1205381a9

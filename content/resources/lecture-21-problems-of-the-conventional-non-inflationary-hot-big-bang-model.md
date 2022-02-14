@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Slides
+optional_text: '[Lecture 21 (PDF)](resources/mit8_286f13_lec21)'
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 21: Problems of the Conventional (Non-inflationary) Hot Big Bang Model'
 uid: 9d463f83-1ac3-a45e-51c9-4e78914202ad
