@@ -4,6 +4,7 @@ description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/8-286-the-early-universe-fall-2013/bb785df9c9a35ad4b47efc6a0855c48f_vKLqWj0FRyc.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: bb785df9-c9a3-5ad4-b47e-fc6a0855c48f

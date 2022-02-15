@@ -4,6 +4,7 @@ description: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Lecture 10 (PDF)](resources/mit8_286f13_lec10)'
 parent_title: Video Lectures
