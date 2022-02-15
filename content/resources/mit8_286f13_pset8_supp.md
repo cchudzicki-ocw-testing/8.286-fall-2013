@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: The Early Universe, Assignment 8
-type: OCWFile
 uid: ef39c717-e4cb-54e9-342e-674e37e5b1ab
 ---

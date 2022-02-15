@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: The Early Universe, Solution 3
-type: OCWFile
 uid: 1357200b-fced-33de-acc1-a7e21d4b4875
 ---
