@@ -43,7 +43,7 @@ TOPICS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 2e408c8a-945f-4310-b9e3-c07f9d84961b "The Doppler Effect and Special Relativity (PDF)" %}}
+{{% resource_link 2e408c8a-945f-4310-b9e3-c07f9d84961b "The Doppler Effect and Special Relativity (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +52,7 @@ TOPICS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 0efbf1fe-4a90-766c-dfda-d43223aabe25 "The Kinematics of the Homogeneous Expanding Universe (PDF)" %}}
+{{% resource_link 0efbf1fe-4a90-766c-dfda-d43223aabe25 "The Kinematics of the Homogeneous Expanding Universe (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
