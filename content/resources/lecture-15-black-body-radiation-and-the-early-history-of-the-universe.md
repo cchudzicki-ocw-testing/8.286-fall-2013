@@ -29,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, the professor reviewed the spacetime geodesic equation; talked about the Schwarzschild metric and radial geodesics; and solved the radial infall equation.
 
 **Instructor:** Alan Guth
+

@@ -28,3 +28,4 @@ video_metadata:
 **Description:** In this lecture, the professor reviewed open universe metric; discussed the differences between open universe and closed universe; and talked about spacetime metric.
 
 **Instructor:** Alan Guth
+

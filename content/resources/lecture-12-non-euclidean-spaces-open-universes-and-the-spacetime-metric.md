@@ -28,3 +28,4 @@ video_metadata:
 **Description:** In this lecture, the professor reviewed a closed three-dimensional space and implications of general relativity; and talked about open universe and the spacetime metric.
 
 **Instructor:** Alan Guth
+

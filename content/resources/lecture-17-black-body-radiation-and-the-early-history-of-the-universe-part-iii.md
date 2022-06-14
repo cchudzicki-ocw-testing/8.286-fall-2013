@@ -29,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, the professor reviewed dynamics of a flat radiation-dominated universe and continued to talk about black-body radiation and the early history of the universe.
 
 **Instructor:** Alan Guth
+

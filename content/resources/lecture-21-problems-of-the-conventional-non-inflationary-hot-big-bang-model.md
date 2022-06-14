@@ -28,3 +28,4 @@ video_metadata:
 **Description:** In this lecture, the professor first reviewed supernovae ia and vacuum energy density, then talked about problems of the conventional (non-inflationary) hot big bang model.
 
 **Instructor:** Alan Guth
+

@@ -28,3 +28,4 @@ video_metadata:
 **Description:** In this lecture, the professor first talked about supernovae type Ia; summarized the age of the universe and radiation flux versus redshift; and talked about vacuum energy density.
 
 **Instructor:** Alan Guth
+

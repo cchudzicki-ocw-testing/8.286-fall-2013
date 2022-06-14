@@ -28,3 +28,4 @@ video_metadata:
 **Description:** In this lecture, the professor reviewed the dynamics of homogeneous expansion and introduced non-Euclidean spaces.
 
 **Instructor:** Alan Guth
+

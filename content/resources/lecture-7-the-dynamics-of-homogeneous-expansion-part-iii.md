@@ -28,3 +28,4 @@ video_metadata:
 **Description:** In this lecture, the professor continued to talk about the dynamics of homogeneous expansion; summarized mathematical model and conservation law.
 
 **Instructor:** Alan Guth
+

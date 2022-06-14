@@ -28,3 +28,4 @@ video_metadata:
 **Description:** In this lecture, the professor first talked about the properties of the universe, then discussed Hubble's Law, gave an example of isotropy without homogeneity, etc.
 
 **Instructor:** Alan Guth
+

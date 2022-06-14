@@ -29,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, the professor talked about the standard Big Bang, cosmic inflation, evidence for inflation, Cosmic Microwave Background (CMB), universe to multiverse, dark energy, etc.
 
 **Instructor:** Alan Guth
+

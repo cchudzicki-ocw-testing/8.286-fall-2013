@@ -28,3 +28,4 @@ video_metadata:
 **Description:** In this lecture, the professor reviewed Robertson-Walker metric and talked about geodesic equation.
 
 **Instructor:** Alan Guth
+

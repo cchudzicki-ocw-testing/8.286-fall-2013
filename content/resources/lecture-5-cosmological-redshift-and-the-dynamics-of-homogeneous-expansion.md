@@ -29,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, the professor quickly reviewed the homogeneous expanding universe, then discussed cosmological redshift and the dynamics of homogeneous expansion.
 
 **Instructor:** Alan Guth
+

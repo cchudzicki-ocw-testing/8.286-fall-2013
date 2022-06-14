@@ -29,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, the professor continued to talk about the black-body radiation, then talked about cosmic microwave background spectrum and the cosmological constant.
 
 **Instructor:** Alan Guth
+

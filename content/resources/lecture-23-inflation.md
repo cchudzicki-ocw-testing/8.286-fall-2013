@@ -28,3 +28,4 @@ video_metadata:
 **Description:** In this lecture, the professor discussed the mechanism of inflation, original inflatinary model, and new inflatinary scenario.
 
 **Instructor:** Alan Guth
+

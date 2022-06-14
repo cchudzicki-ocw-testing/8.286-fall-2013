@@ -28,3 +28,4 @@ video_metadata:
 **Description:** In this lecture, the professor discussed the doppler effect, time dilation, Lorentz-Fitzgerald contraction and relativity of simultaneity.
 
 **Instructor:** Alan Guth
+

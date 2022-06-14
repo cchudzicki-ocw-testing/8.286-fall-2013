@@ -29,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, the professor reviewed relativistic energy, relativistic four-momentum, the mass of radiation, radiation in an expanding universe, modification of the Friedmann equations; and continued to talk about black-body radiation and the early history of the universe.
 
 **Instructor:** Alan Guth
+

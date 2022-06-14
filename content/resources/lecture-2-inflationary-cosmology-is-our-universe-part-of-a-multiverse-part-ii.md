@@ -29,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, the professor summarized the standard Big Bang, cosmic inflation, evidence for inflation, inflation and multiverse, nightmare of dark energy. He also talked about the landscape and environmental selection, anthropic arguments, anthropic explanation, etc.
 
 **Instructor:** Alan Guth
+

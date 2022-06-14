@@ -30,3 +30,4 @@ video_metadata:
 **Instructor:** Alan Guth
 
 **Erratum**: On slide 6 (at 17:25 minutes), the equation "a^(1/2) a da = const dt" should read "a^(1/2) da = const dt"
+

@@ -28,3 +28,4 @@ video_metadata:
 **Description:** In this lecture, the professor continued to talk about the dynamics of homogeneous expansion; summarized age of a flat matter-dominated universe, Big Bang singularity, and evolution of a closed universe.
 
 **Instructor:** Alan Guth
+
