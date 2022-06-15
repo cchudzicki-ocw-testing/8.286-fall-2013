@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides review problems with solutions, quizzes, and quiz
+  solutions.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

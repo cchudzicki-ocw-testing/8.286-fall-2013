@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, prerequisites,
+  required and recommended textbooks, other readings, grading, the course outline,
+  homework policy, and a note on special relativity.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
