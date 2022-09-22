@@ -6,6 +6,7 @@ file: /courses/8-286-the-early-universe-fall-2013/b5efb8ea692fa31dec3e3263f97b22
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
